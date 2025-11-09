@@ -1,0 +1,11 @@
+2025-10-27 11:59:52,685 - INFO - Response queued: Initializing Proton...
+2025-10-27 11:59:52,685 - INFO - Response queued: Good Morning!
+2025-10-27 11:59:52,685 - INFO - Response queued: I am Proton, your virtual assistant. How can I help you today?
+2025-10-27 11:59:52,754 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-27 11:59:52,754 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-27 12:00:07,786 - INFO - Response queued: Sorry, I didn’t understand that.
+2025-10-27 12:00:49,295 - INFO - Response queued: Initializing Proton...
+2025-10-27 12:00:49,297 - INFO - Response queued: Good Afternoon!
+2025-10-27 12:00:49,298 - INFO - Response queued: I am Proton, your virtual assistant. How can I help you today?
+2025-10-27 12:00:49,399 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-27 12:00:49,399 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'

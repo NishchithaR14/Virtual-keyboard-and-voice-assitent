@@ -1,0 +1,879 @@
+2025-10-25 18:45:24,893 - INFO - ============================================================
+2025-10-25 18:45:24,893 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-25 18:45:24,893 - INFO - ============================================================
+2025-10-25 18:45:24,893 - WARNING - config.json not found, creating default configuration
+2025-10-25 18:45:24,940 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-25 18:45:24,940 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-25 18:45:25,722 - INFO - 127.0.0.1 - - [2025-10-25 18:45:25] "GET /index.html HTTP/1.1" 200 1760 0.006576
+2025-10-25 18:45:25,750 - INFO - 127.0.0.1 - - [2025-10-25 18:45:25] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.002794
+2025-10-25 18:45:25,752 - INFO - 127.0.0.1 - - [2025-10-25 18:45:25] "GET /eel.js HTTP/1.1" 200 6033 0.000000
+2025-10-25 18:45:25,757 - INFO - 127.0.0.1 - - [2025-10-25 18:45:25] "GET /js/main.js HTTP/1.1" 200 1919 0.001623
+2025-10-25 18:45:25,761 - INFO - 127.0.0.1 - - [2025-10-25 18:45:25] "GET /images/icon.png HTTP/1.1" 200 106819 0.002326
+2025-10-25 18:45:27,662 - INFO - Response: Good Evening!
+2025-10-25 18:45:28,196 - INFO - Response: I am Proton, how may I help you?
+2025-10-25 18:45:34,214 - INFO - Voice input: Proton location
+2025-10-25 18:45:34,775 - INFO - Response: Which place are you looking for?
+2025-10-25 18:45:39,345 - INFO - Voice input: Mysore
+2025-10-25 18:45:39,868 - INFO - Response: Locating mysore
+2025-10-25 18:45:40,075 - INFO - Command logged: location: mysore - success
+2025-10-25 18:45:46,483 - WARNING - Could not understand audio
+2025-10-25 18:45:50,485 - WARNING - Could not understand audio
+2025-10-25 18:45:58,395 - INFO - Voice input: Proton location Mysore weather
+2025-10-25 18:45:58,397 - WARNING - Weather API key not configured
+2025-10-25 18:45:58,924 - INFO - Response: Weather API key not configured. Please add to config.json
+2025-10-25 18:45:58,926 - INFO - Command logged: weather: default - success
+2025-10-25 18:46:07,205 - WARNING - Could not understand audio
+2025-10-25 18:46:12,113 - WARNING - Could not understand audio
+2025-10-25 18:46:15,492 - INFO - Voice input: town weather
+2025-10-25 18:46:20,311 - INFO - Voice input: Proton weather
+2025-10-25 18:46:20,313 - WARNING - Weather API key not configured
+2025-10-25 18:46:20,837 - INFO - Response: Weather API key not configured. Please add to config.json
+2025-10-25 18:46:20,839 - INFO - Command logged: weather: default - success
+2025-10-25 18:46:33,097 - INFO - Voice input: proton
+2025-10-25 18:46:33,693 - INFO - Response: I'm not sure how to do that. Try saying 'Proton help' for available commands.
+2025-10-25 18:46:33,695 - INFO - Command logged:  - unknown
+2025-10-25 18:46:33,697 - WARNING - Unknown command: 
+2025-10-25 18:46:38,203 - INFO - Voice input: Proton exit
+2025-10-25 18:46:38,911 - INFO - Response: Shutting down. Goodbye!
+2025-10-25 18:46:38,911 - INFO - Command logged: shutdown - success
+2025-10-25 18:46:39,386 - INFO - Response: Exiting successfully
+2025-10-25 18:46:39,386 - INFO - System exit requested
+2025-10-25 18:48:53,982 - INFO - ============================================================
+2025-10-25 18:48:53,982 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-25 18:48:53,982 - INFO - ============================================================
+2025-10-25 18:48:53,982 - INFO - Configuration loaded successfully
+2025-10-25 18:48:54,013 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-25 18:48:54,013 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-25 18:48:54,927 - INFO - 127.0.0.1 - - [2025-10-25 18:48:54] "GET /index.html HTTP/1.1" 200 1760 0.011166
+2025-10-25 18:48:54,957 - INFO - 127.0.0.1 - - [2025-10-25 18:48:54] "GET /eel.js HTTP/1.1" 200 6033 0.001801
+2025-10-25 18:48:54,961 - INFO - 127.0.0.1 - - [2025-10-25 18:48:54] "GET /js/main.js HTTP/1.1" 200 1919 0.002127
+2025-10-25 18:48:54,965 - INFO - 127.0.0.1 - - [2025-10-25 18:48:54] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.004020
+2025-10-25 18:48:54,970 - INFO - 127.0.0.1 - - [2025-10-25 18:48:54] "GET /images/icon.png HTTP/1.1" 200 106819 0.002969
+2025-10-25 18:48:56,690 - INFO - Response: Good Evening!
+2025-10-25 18:48:57,171 - INFO - Response: I am Proton, how may I help you?
+2025-10-25 18:49:02,911 - INFO - Voice input: Proton location
+2025-10-25 18:49:03,441 - INFO - Response: Which place are you looking for?
+2025-10-25 18:49:09,396 - WARNING - Could not understand audio
+2025-10-25 18:49:20,544 - INFO - Voice input: Mysore
+2025-10-25 18:49:25,144 - INFO - Voice input: proton
+2025-10-25 18:49:25,706 - INFO - Response: I'm not sure how to do that. Try saying 'Proton help' for available commands.
+2025-10-25 18:49:25,712 - INFO - Command logged:  - unknown
+2025-10-25 18:49:25,712 - WARNING - Unknown command: 
+2025-10-25 18:49:30,017 - INFO - Voice input: proton
+2025-10-25 18:49:30,552 - INFO - Response: I'm not sure how to do that. Try saying 'Proton help' for available commands.
+2025-10-25 18:49:30,552 - INFO - Command logged:  - unknown
+2025-10-25 18:49:30,552 - WARNING - Unknown command: 
+2025-10-25 18:49:36,910 - WARNING - Could not understand audio
+2025-10-25 18:49:47,656 - WARNING - Could not understand audio
+2025-10-25 18:49:48,201 - INFO - Response: I'm not sure how to do that. Try saying 'Proton help' for available commands.
+2025-10-25 18:49:48,201 - INFO - Command logged: mysore - unknown
+2025-10-25 18:49:48,201 - WARNING - Unknown command: mysore
+2025-10-25 18:49:55,660 - INFO - Voice input: Proton location
+2025-10-25 18:49:56,210 - INFO - Response: Which place are you looking for?
+2025-10-25 18:49:59,460 - INFO - Voice input: Mysore
+2025-10-25 18:50:00,005 - INFO - Response: Locating mysore
+2025-10-25 18:50:00,181 - INFO - Command logged: location: mysore - success
+2025-10-25 18:50:06,325 - WARNING - Could not understand audio
+2025-10-25 18:50:09,294 - WARNING - Could not understand audio
+2025-10-25 18:50:14,595 - INFO - Voice input: location Mysore weather
+2025-10-25 18:50:20,959 - INFO - Voice input: Proton location
+2025-10-25 18:50:21,507 - INFO - Response: Which place are you looking for?
+2025-10-25 18:50:26,889 - WARNING - Could not understand audio
+2025-10-25 18:50:31,458 - WARNING - Could not understand audio
+2025-10-25 18:50:36,311 - WARNING - Could not understand audio
+2025-10-25 18:50:40,424 - WARNING - Could not understand audio
+2025-10-25 18:50:45,419 - WARNING - Could not understand audio
+2025-10-25 18:50:54,231 - WARNING - Could not understand audio
+2025-10-25 18:51:05,798 - WARNING - Could not understand audio
+2025-10-25 18:51:08,268 - INFO - ============================================================
+2025-10-25 18:51:08,268 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-25 18:51:08,268 - INFO - ============================================================
+2025-10-25 18:51:08,268 - INFO - Configuration loaded successfully
+2025-10-25 18:51:08,311 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-25 18:51:08,311 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-25 18:51:10,849 - INFO - Response: Good Evening!
+2025-10-25 18:51:11,334 - WARNING - Could not understand audio
+2025-10-25 18:51:11,365 - INFO - Response: I am Proton, how may I help you?
+2025-10-25 18:51:15,243 - WARNING - Could not understand audio
+2025-10-25 18:51:15,292 - WARNING - Could not understand audio
+2025-10-25 18:51:18,131 - WARNING - Could not understand audio
+2025-10-25 18:51:18,177 - WARNING - Could not understand audio
+2025-10-25 18:53:27,804 - INFO - ============================================================
+2025-10-25 18:53:27,805 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-25 18:53:27,805 - INFO - ============================================================
+2025-10-25 18:53:27,807 - INFO - Configuration loaded successfully
+2025-10-25 18:53:27,863 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-25 18:53:27,863 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-25 18:53:28,950 - INFO - 127.0.0.1 - - [2025-10-25 18:53:28] "GET /index.html HTTP/1.1" 200 1760 0.005326
+2025-10-25 18:53:28,999 - INFO - 127.0.0.1 - - [2025-10-25 18:53:28] "GET /eel.js HTTP/1.1" 200 6033 0.002000
+2025-10-25 18:53:29,002 - INFO - 127.0.0.1 - - [2025-10-25 18:53:29] "GET /js/main.js HTTP/1.1" 200 1919 0.001001
+2025-10-25 18:53:29,008 - INFO - 127.0.0.1 - - [2025-10-25 18:53:29] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.002392
+2025-10-25 18:53:29,012 - INFO - 127.0.0.1 - - [2025-10-25 18:53:29] "GET /images/icon.png HTTP/1.1" 200 106819 0.003539
+2025-10-25 18:53:30,882 - INFO - Response: Good Evening!
+2025-10-25 18:53:31,570 - INFO - Response: I am Proton, how may I help you?
+2025-10-25 18:53:37,695 - INFO - Voice input: Proton location my
+2025-10-25 18:53:38,337 - INFO - Response: Which place are you looking for?
+2025-10-25 18:53:44,386 - INFO - Voice input: Mysore weather
+2025-10-25 18:53:45,005 - INFO - Response: Locating mysore weather
+2025-10-25 18:53:45,247 - INFO - Command logged: location: mysore weather - success
+2025-10-25 18:53:52,296 - WARNING - Could not understand audio
+2025-10-25 18:54:00,406 - WARNING - Could not understand audio
+2025-10-25 18:54:03,907 - WARNING - Could not understand audio
+2025-10-25 18:54:07,660 - WARNING - Could not understand audio
+2025-10-25 18:54:15,235 - WARNING - Could not understand audio
+2025-10-25 18:54:23,113 - WARNING - Could not understand audio
+2025-10-25 18:54:31,204 - INFO - Voice input: offline online speech recognition
+2025-10-25 18:54:36,951 - INFO - Voice input: keyboard web automation
+2025-10-25 18:54:44,249 - INFO - Voice input: facial machine
+2025-10-25 18:54:49,377 - INFO - Voice input: weather information
+2025-10-25 18:55:03,872 - WARNING - Could not understand audio
+2025-10-25 18:55:11,047 - WARNING - Could not understand audio
+2025-10-25 18:55:14,810 - WARNING - Could not understand audio
+2025-10-25 18:55:19,856 - WARNING - Could not understand audio
+2025-10-25 18:55:25,855 - WARNING - Could not understand audio
+2025-10-25 18:55:29,692 - WARNING - Could not understand audio
+2025-10-25 18:55:33,874 - WARNING - Could not understand audio
+2025-10-25 18:55:38,695 - WARNING - Could not understand audio
+2025-10-25 18:55:42,183 - WARNING - Could not understand audio
+2025-10-25 18:55:49,545 - WARNING - Could not understand audio
+2025-10-25 18:55:57,129 - WARNING - Could not understand audio
+2025-10-25 18:56:05,325 - INFO - Voice input: total launch Gesture rec
+2025-10-25 18:56:09,054 - WARNING - Could not understand audio
+2025-10-25 18:56:20,035 - INFO - Voice input: weather check model
+2025-10-25 18:56:28,252 - INFO - Voice input: proton
+2025-10-25 18:56:28,766 - INFO - Response: I'm not sure how to do that. Try saying 'Proton help' for available commands.
+2025-10-25 18:56:28,766 - INFO - Command logged:  - unknown
+2025-10-25 18:56:28,766 - WARNING - Unknown command: 
+2025-10-25 18:56:35,018 - INFO - Voice input: Proton weather in Mysore
+2025-10-25 18:56:35,024 - WARNING - Weather API key not configured
+2025-10-25 18:56:35,559 - INFO - Response: Weather API key not configured. Please add to config.json
+2025-10-25 18:56:35,559 - INFO - Command logged: weather: mysore - success
+2025-10-25 18:56:39,623 - WARNING - Could not understand audio
+2025-10-25 18:56:44,893 - WARNING - Could not understand audio
+2025-10-25 18:56:49,762 - INFO - Voice input: Proton exit
+2025-10-25 18:56:50,282 - INFO - Response: Shutting down. Goodbye!
+2025-10-25 18:56:50,282 - INFO - Command logged: shutdown - success
+2025-10-25 18:56:50,680 - INFO - Response: Exiting successfully
+2025-10-25 18:56:50,680 - INFO - System exit requested
+2025-10-25 18:59:29,455 - INFO - ============================================================
+2025-10-25 18:59:29,455 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-25 18:59:29,456 - INFO - ============================================================
+2025-10-25 18:59:29,456 - INFO - Configuration loaded successfully
+2025-10-25 18:59:29,498 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-25 18:59:29,498 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-25 18:59:30,354 - INFO - 127.0.0.1 - - [2025-10-25 18:59:30] "GET /index.html HTTP/1.1" 200 1760 0.010962
+2025-10-25 18:59:30,377 - INFO - 127.0.0.1 - - [2025-10-25 18:59:30] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.000899
+2025-10-25 18:59:30,382 - INFO - 127.0.0.1 - - [2025-10-25 18:59:30] "GET /js/main.js HTTP/1.1" 200 1919 0.004801
+2025-10-25 18:59:30,386 - INFO - 127.0.0.1 - - [2025-10-25 18:59:30] "GET /eel.js HTTP/1.1" 200 6033 0.002289
+2025-10-25 18:59:30,394 - INFO - 127.0.0.1 - - [2025-10-25 18:59:30] "GET /images/icon.png HTTP/1.1" 200 106819 0.005283
+2025-10-25 18:59:32,160 - INFO - Response: Good Evening!
+2025-10-25 18:59:32,783 - INFO - Response: I am Proton, how may I help you?
+2025-10-25 18:59:38,106 - INFO - Voice input: Proton list files
+2025-10-25 18:59:38,694 - INFO - Response: These are the files in your home directory
+2025-10-25 18:59:38,697 - INFO - Command logged: list files - success
+2025-10-25 18:59:48,489 - INFO - Voice input: Proton open
+2025-10-25 18:59:49,021 - INFO - Response: Please say the file number after open
+2025-10-25 18:59:55,505 - INFO - Voice input: Proton open desktop
+2025-10-25 18:59:56,030 - INFO - Response: Please say the file number after open
+2025-10-25 19:00:01,740 - WARNING - Could not understand audio
+2025-10-25 19:00:09,752 - WARNING - Could not understand audio
+2025-10-25 19:00:20,722 - INFO - Voice input: Proton open 32
+2025-10-25 19:00:21,242 - INFO - Response: Opened folder Desktop
+2025-10-25 19:00:30,834 - WARNING - Could not understand audio
+2025-10-25 19:00:40,270 - INFO - Voice input: note on exit
+2025-10-25 19:00:45,066 - WARNING - Could not understand audio
+2025-10-25 19:00:48,015 - INFO - Voice input: exit
+2025-10-25 19:01:01,755 - WARNING - Could not understand audio
+2025-10-25 19:01:08,036 - WARNING - Could not understand audio
+2025-10-25 19:01:16,303 - WARNING - Could not understand audio
+2025-10-25 19:01:21,936 - WARNING - Could not understand audio
+2025-10-25 19:01:26,229 - WARNING - Could not understand audio
+2025-10-25 19:01:33,144 - WARNING - Could not understand audio
+2025-10-25 19:01:38,654 - WARNING - Could not understand audio
+2025-10-25 19:01:44,153 - WARNING - Could not understand audio
+2025-10-25 19:01:50,188 - WARNING - Could not understand audio
+2025-10-25 19:01:54,606 - WARNING - Could not understand audio
+2025-10-25 19:01:59,246 - INFO - Voice input: how many moles of oxygen
+2025-10-25 19:02:03,481 - WARNING - Could not understand audio
+2025-10-25 19:02:08,704 - WARNING - Could not understand audio
+2025-10-25 19:02:12,629 - WARNING - Could not understand audio
+2025-10-25 19:02:18,347 - WARNING - Could not understand audio
+2025-10-25 19:02:21,536 - WARNING - Could not understand audio
+2025-10-25 19:02:25,486 - WARNING - Could not understand audio
+2025-10-25 19:02:31,088 - WARNING - Could not understand audio
+2025-10-25 19:02:35,886 - WARNING - Could not understand audio
+2025-10-25 19:02:42,768 - WARNING - Could not understand audio
+2025-10-25 19:02:46,361 - WARNING - Could not understand audio
+2025-10-25 19:02:53,339 - WARNING - Could not understand audio
+2025-10-25 19:02:59,107 - WARNING - Could not understand audio
+2025-10-25 19:03:03,614 - WARNING - Could not understand audio
+2025-10-25 19:03:07,309 - WARNING - Could not understand audio
+2025-10-25 19:03:13,448 - WARNING - Could not understand audio
+2025-10-25 19:03:17,647 - WARNING - Could not understand audio
+2025-10-25 19:03:24,598 - WARNING - Could not understand audio
+2025-10-25 19:03:32,085 - WARNING - Could not understand audio
+2025-10-25 19:03:32,613 - INFO - Response: Shutting down. Goodbye!
+2025-10-25 19:03:32,613 - INFO - Command logged: shutdown - success
+2025-10-25 19:03:33,008 - INFO - Response: Exiting successfully
+2025-10-25 19:03:33,008 - INFO - System exit requested
+2025-10-25 19:10:56,298 - INFO - ============================================================
+2025-10-25 19:10:56,298 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-25 19:10:56,298 - INFO - ============================================================
+2025-10-25 19:10:56,298 - INFO - Configuration loaded successfully
+2025-10-25 19:10:56,345 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-25 19:10:56,345 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-25 19:10:57,108 - INFO - 127.0.0.1 - - [2025-10-25 19:10:57] "GET /index.html HTTP/1.1" 200 1760 0.006036
+2025-10-25 19:10:57,136 - INFO - 127.0.0.1 - - [2025-10-25 19:10:57] "GET /eel.js HTTP/1.1" 200 6033 0.002303
+2025-10-25 19:10:57,138 - INFO - 127.0.0.1 - - [2025-10-25 19:10:57] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.000000
+2025-10-25 19:10:57,148 - INFO - 127.0.0.1 - - [2025-10-25 19:10:57] "GET /js/main.js HTTP/1.1" 200 1919 0.008420
+2025-10-25 19:10:57,154 - INFO - 127.0.0.1 - - [2025-10-25 19:10:57] "GET /images/icon.png HTTP/1.1" 200 106819 0.004202
+2025-10-25 19:10:59,112 - INFO - Response: Good Evening!
+2025-10-25 19:10:59,626 - INFO - Response: I am Proton, how may I help you?
+2025-10-25 19:11:04,063 - INFO - Voice input: list file
+2025-10-25 19:11:11,485 - INFO - Voice input: Proton list file
+2025-10-25 19:11:12,027 - INFO - Response: These are the files in your home directory
+2025-10-25 19:11:12,031 - INFO - Command logged: list files - success
+2025-10-25 19:11:18,597 - INFO - Voice input: Proton open 32
+2025-10-25 19:11:19,111 - INFO - Response: Opened folder Desktop. Here are the contents.
+2025-10-25 19:11:19,113 - INFO - Command logged: open folder: Desktop - success
+2025-10-25 19:11:19,113 - INFO - Navigated to folder: C:\Users\raksh\Desktop
+2025-10-25 19:11:27,310 - WARNING - Could not understand audio
+2025-10-25 19:11:35,196 - INFO - Voice input: Proton list file
+2025-10-25 19:11:35,820 - INFO - Response: These are the files in your home directory
+2025-10-25 19:11:35,822 - INFO - Command logged: list files - success
+2025-10-25 19:11:42,473 - INFO - Voice input: Proton open
+2025-10-25 19:11:43,009 - INFO - Response: Please say the file number after open
+2025-10-25 19:11:43,009 - WARNING - No file number provided in command
+2025-10-25 19:11:49,022 - WARNING - Could not understand audio
+2025-10-25 19:11:55,275 - WARNING - Could not understand audio
+2025-10-25 19:11:58,265 - WARNING - Could not understand audio
+2025-10-25 19:12:01,880 - WARNING - Could not understand audio
+2025-10-25 19:12:04,592 - INFO - Voice input: open
+2025-10-25 19:12:12,582 - INFO - Voice input: Proton open 34
+2025-10-25 19:12:13,285 - INFO - Response: Opened folder Downloads. Here are the contents.
+2025-10-25 19:12:13,288 - INFO - Command logged: open folder: Downloads - success
+2025-10-25 19:12:13,288 - INFO - Navigated to folder: C:\Users\raksh\Downloads
+2025-10-25 19:12:19,127 - WARNING - Could not understand audio
+2025-10-25 19:23:11,822 - INFO - ============================================================
+2025-10-25 19:23:11,823 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-25 19:23:11,823 - INFO - ============================================================
+2025-10-25 19:23:11,823 - INFO - Configuration loaded successfully
+2025-10-25 19:23:11,906 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-25 19:23:11,906 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-25 19:23:13,433 - INFO - 127.0.0.1 - - [2025-10-25 19:23:13] "GET /index.html HTTP/1.1" 200 1760 0.011303
+2025-10-25 19:23:13,644 - INFO - 127.0.0.1 - - [2025-10-25 19:23:13] "GET /eel.js HTTP/1.1" 200 6033 0.003999
+2025-10-25 19:23:13,649 - INFO - 127.0.0.1 - - [2025-10-25 19:23:13] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.002008
+2025-10-25 19:23:13,654 - INFO - 127.0.0.1 - - [2025-10-25 19:23:13] "GET /js/main.js HTTP/1.1" 200 1919 0.001048
+2025-10-25 19:23:13,667 - INFO - 127.0.0.1 - - [2025-10-25 19:23:13] "GET /images/icon.png HTTP/1.1" 200 106819 0.005001
+2025-10-25 19:23:16,398 - INFO - Response: Good Evening!
+2025-10-25 19:23:17,095 - INFO - Response: I am Proton, how may I help you?
+2025-10-25 19:23:23,324 - INFO - Voice input: Proton list files
+2025-10-25 19:23:23,987 - INFO - Response: These are the files in your home directory
+2025-10-25 19:23:23,991 - INFO - Command logged: list files - success
+2025-10-25 19:23:28,399 - INFO - Voice input: proton
+2025-10-25 19:23:34,370 - WARNING - Could not understand audio
+2025-10-25 19:23:41,342 - INFO - Voice input: Proton open 33
+2025-10-25 19:23:42,064 - INFO - Response: Opening folder Documents
+2025-10-25 19:23:42,270 - INFO - Command logged: open folder: Documents - success
+2025-10-25 19:23:42,270 - INFO - Opened folder in Explorer: C:\Users\raksh\Documents
+2025-10-25 19:23:46,696 - WARNING - Could not understand audio
+2025-10-25 19:23:51,340 - WARNING - Could not understand audio
+2025-10-25 19:23:55,441 - INFO - Voice input: Proton exit
+2025-10-25 19:23:56,102 - INFO - Response: Shutting down. Goodbye!
+2025-10-25 19:23:56,102 - INFO - Command logged: shutdown - success
+2025-10-25 19:23:56,521 - INFO - Response: Exiting successfully
+2025-10-25 19:23:56,522 - INFO - System exit requested
+2025-10-25 19:38:57,573 - INFO - ============================================================
+2025-10-25 19:38:57,575 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-25 19:38:57,577 - INFO - ============================================================
+2025-10-25 19:38:57,577 - INFO - Configuration loaded successfully
+2025-10-25 19:38:57,623 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-25 19:38:57,623 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-25 19:38:58,636 - INFO - 127.0.0.1 - - [2025-10-25 19:38:58] "GET /index.html HTTP/1.1" 200 1760 0.006634
+2025-10-25 19:38:58,664 - INFO - 127.0.0.1 - - [2025-10-25 19:38:58] "GET /eel.js HTTP/1.1" 200 6033 0.000000
+2025-10-25 19:38:58,672 - INFO - 127.0.0.1 - - [2025-10-25 19:38:58] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.007636
+2025-10-25 19:38:58,682 - INFO - 127.0.0.1 - - [2025-10-25 19:38:58] "GET /js/main.js HTTP/1.1" 200 1919 0.004254
+2025-10-25 19:38:58,689 - INFO - 127.0.0.1 - - [2025-10-25 19:38:58] "GET /images/icon.png HTTP/1.1" 200 106819 0.006323
+2025-10-25 19:39:00,822 - INFO - Response: Good Evening!
+2025-10-25 19:39:01,325 - INFO - Response: I am Proton, how may I help you?
+2025-10-25 19:39:06,613 - INFO - Voice input: Proton list files
+2025-10-25 19:39:07,168 - INFO - Response: These are the files in your home directory
+2025-10-25 19:39:07,168 - INFO - Command logged: list files - success
+2025-10-25 19:39:15,194 - INFO - Voice input: Proton open 34
+2025-10-25 19:39:15,724 - INFO - Response: Opening folder Downloads
+2025-10-25 19:39:15,745 - INFO - Command logged: open folder: Downloads - success
+2025-10-25 19:39:15,747 - INFO - Opened folder in Explorer: C:\Users\raksh\Downloads
+2025-10-25 19:39:25,311 - WARNING - Could not understand audio
+2025-10-25 19:39:57,372 - WARNING - Could not understand audio
+2025-10-25 19:40:05,357 - INFO - Voice input: Proton open 31
+2025-10-25 19:40:16,003 - INFO - Voice input: Proton open 81
+2025-10-25 19:40:23,269 - INFO - Voice input: proton
+2025-10-25 19:40:28,393 - INFO - Voice input: Proton open
+2025-10-25 19:40:33,726 - INFO - Voice input: Proton open 82
+2025-10-25 19:40:37,850 - WARNING - Could not understand audio
+2025-10-25 19:40:41,905 - WARNING - Could not understand audio
+2025-10-25 19:40:46,205 - INFO - Voice input: open 34
+2025-10-25 19:40:51,434 - INFO - Voice input: Proton open 34
+2025-10-25 19:40:56,045 - WARNING - Could not understand audio
+2025-10-25 19:41:00,440 - WARNING - Could not understand audio
+2025-10-25 19:41:05,459 - INFO - Voice input: Proton open 34
+2025-10-25 19:41:11,186 - WARNING - Could not understand audio
+2025-10-25 19:41:33,518 - WARNING - Could not understand audio
+2025-10-25 19:41:40,193 - INFO - Voice input: turn list files
+2025-10-25 19:41:46,833 - INFO - Voice input: Proton list files
+2025-10-25 19:41:47,376 - INFO - Response: These are the files in your home directory
+2025-10-25 19:41:47,378 - INFO - Command logged: list files - success
+2025-10-25 19:41:54,100 - INFO - Voice input: YouTube open 81
+2025-10-25 19:42:01,414 - INFO - Voice input: Proton open 81
+2025-10-25 19:42:01,948 - INFO - Response: Opening folder Videos
+2025-10-25 19:42:01,964 - INFO - Command logged: open folder: Videos - success
+2025-10-25 19:42:01,964 - INFO - Opened folder in Explorer: C:\Users\raksh\Videos
+2025-10-25 19:42:10,042 - INFO - Voice input: Proton open
+2025-10-25 19:42:15,825 - INFO - Voice input: Proton open 35
+2025-10-25 19:42:21,891 - WARNING - Could not understand audio
+2025-10-25 19:42:32,084 - WARNING - Could not understand audio
+2025-10-25 19:42:35,976 - INFO - Voice input: open 34
+2025-10-25 19:42:41,696 - INFO - Voice input: e
+2025-10-25 19:42:47,867 - INFO - Voice input: Proton open 34
+2025-10-25 19:42:54,614 - WARNING - Could not understand audio
+2025-10-25 19:42:58,361 - WARNING - Could not understand audio
+2025-10-25 19:43:02,209 - INFO - Voice input: Proton list files
+2025-10-25 19:43:02,753 - INFO - Response: These are the files in your home directory
+2025-10-25 19:43:02,754 - INFO - Command logged: list files - success
+2025-10-25 19:43:08,893 - INFO - Voice input: Proton open 34
+2025-10-25 19:43:09,415 - INFO - Response: Opening folder Downloads
+2025-10-25 19:43:09,421 - INFO - Command logged: open folder: Downloads - success
+2025-10-25 19:43:09,421 - INFO - Opened folder in Explorer: C:\Users\raksh\Downloads
+2025-10-25 19:43:15,897 - WARNING - Could not understand audio
+2025-10-25 19:43:22,426 - WARNING - Could not understand audio
+2025-10-25 19:43:29,392 - WARNING - Could not understand audio
+2025-10-25 19:43:35,167 - INFO - Voice input: Proton list file
+2025-10-25 19:43:35,791 - INFO - Response: These are the files in your home directory
+2025-10-25 19:43:35,796 - INFO - Command logged: list files - success
+2025-10-25 19:43:41,925 - INFO - Voice input: Proton open 81
+2025-10-25 19:43:42,491 - INFO - Response: Opening folder Videos
+2025-10-25 19:43:42,496 - INFO - Command logged: open folder: Videos - success
+2025-10-25 19:43:42,499 - INFO - Opened folder in Explorer: C:\Users\raksh\Videos
+2025-10-25 19:43:52,892 - INFO - Voice input: Proton exit
+2025-10-25 19:43:53,435 - INFO - Response: Shutting down. Goodbye!
+2025-10-25 19:43:53,436 - INFO - Command logged: shutdown - success
+2025-10-25 19:43:53,851 - INFO - Response: Exiting successfully
+2025-10-25 19:43:53,851 - INFO - System exit requested
+2025-10-25 19:49:47,406 - INFO - ============================================================
+2025-10-25 19:49:47,406 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-25 19:49:47,406 - INFO - ============================================================
+2025-10-25 19:49:47,406 - INFO - Configuration loaded successfully
+2025-10-25 19:49:47,454 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-25 19:49:47,454 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-25 19:49:48,256 - INFO - 127.0.0.1 - - [2025-10-25 19:49:48] "GET /index.html HTTP/1.1" 200 1760 0.002012
+2025-10-25 19:49:48,286 - INFO - 127.0.0.1 - - [2025-10-25 19:49:48] "GET /eel.js HTTP/1.1" 200 6033 0.000000
+2025-10-25 19:49:48,292 - INFO - 127.0.0.1 - - [2025-10-25 19:49:48] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.000876
+2025-10-25 19:49:48,295 - INFO - 127.0.0.1 - - [2025-10-25 19:49:48] "GET /js/main.js HTTP/1.1" 200 1919 0.001609
+2025-10-25 19:49:48,302 - INFO - 127.0.0.1 - - [2025-10-25 19:49:48] "GET /images/icon.png HTTP/1.1" 200 106819 0.003145
+2025-10-25 19:49:50,099 - INFO - Response: Good Evening!
+2025-10-25 19:49:50,631 - INFO - Response: I am Proton, how may I help you?
+2025-10-25 19:49:55,845 - WARNING - Could not understand audio
+2025-10-25 19:50:04,692 - INFO - Voice input: Proton list file
+2025-10-25 19:50:05,256 - INFO - Response: These are the files in your home directory
+2025-10-25 19:50:05,256 - INFO - Command logged: list files - success
+2025-10-25 19:50:09,077 - INFO - Voice input: Mere Naam
+2025-10-25 19:50:19,226 - WARNING - Could not understand audio
+2025-10-25 19:50:25,273 - WARNING - Could not understand audio
+2025-10-25 19:50:28,752 - WARNING - Could not understand audio
+2025-10-25 19:50:35,818 - WARNING - Could not understand audio
+2025-10-25 19:50:39,883 - WARNING - Could not understand audio
+2025-10-25 19:50:47,605 - INFO - Voice input: proton
+2025-10-25 19:50:53,368 - INFO - Voice input: short on open 35
+2025-10-25 19:50:56,996 - WARNING - Could not understand audio
+2025-10-25 19:51:03,671 - INFO - Voice input: Proton open 35
+2025-10-25 19:51:04,199 - INFO - Response: Opening folder eclipse
+2025-10-25 19:51:04,209 - INFO - Opened folder (method 1): C:\Users\raksh\eclipse
+2025-10-25 19:51:04,209 - INFO - Command logged: open folder: eclipse - success
+2025-10-25 19:51:12,529 - WARNING - Could not understand audio
+2025-10-25 19:51:20,067 - WARNING - Could not understand audio
+2025-10-25 19:51:30,301 - WARNING - Could not understand audio
+2025-10-25 19:51:38,787 - INFO - Voice input: proton
+2025-10-25 19:51:44,593 - INFO - Voice input: Proton exit
+2025-10-25 19:51:45,141 - INFO - Response: Shutting down. Goodbye!
+2025-10-25 19:51:45,141 - INFO - Command logged: shutdown - success
+2025-10-25 19:51:45,542 - INFO - Response: Exiting successfully
+2025-10-25 19:51:45,542 - INFO - System exit requested
+2025-10-26 20:42:45,614 - INFO - ============================================================
+2025-10-26 20:42:45,614 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-26 20:42:45,615 - INFO - ============================================================
+2025-10-26 20:42:45,631 - INFO - Configuration loaded successfully
+2025-10-26 20:42:45,663 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-26 20:42:45,663 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-26 20:42:46,607 - INFO - 127.0.0.1 - - [2025-10-26 20:42:46] "GET /index.html HTTP/1.1" 200 1760 0.003028
+2025-10-26 20:42:46,617 - INFO - 127.0.0.1 - - [2025-10-26 20:42:46] "GET /eel.js HTTP/1.1" 200 6033 0.001372
+2025-10-26 20:42:46,633 - INFO - 127.0.0.1 - - [2025-10-26 20:42:46] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.011559
+2025-10-26 20:42:46,635 - INFO - 127.0.0.1 - - [2025-10-26 20:42:46] "GET /js/main.js HTTP/1.1" 200 1919 0.001023
+2025-10-26 20:42:46,653 - INFO - 127.0.0.1 - - [2025-10-26 20:42:46] "GET /images/icon.png HTTP/1.1" 200 106819 0.016488
+2025-10-26 20:42:46,698 - INFO - 127.0.0.1 - - [2025-10-26 20:42:46] "GET /favicon.ico HTTP/1.1" 404 883 0.011797
+2025-10-26 20:42:48,422 - INFO - Response: Good Evening!
+2025-10-26 20:42:48,810 - INFO - Response: I am Proton, how may I help you?
+2025-10-26 20:43:03,414 - ERROR - Speech recognition service error: recognition connection failed: [Errno 11001] getaddrinfo failed
+2025-10-26 20:43:03,846 - INFO - Response: Speech service unavailable. Check your internet connection.
+2025-10-26 20:43:18,178 - ERROR - Speech recognition service error: recognition connection failed: [Errno 11001] getaddrinfo failed
+2025-10-26 20:43:18,666 - INFO - Response: Speech service unavailable. Check your internet connection.
+2025-10-26 20:43:34,114 - ERROR - Speech recognition service error: recognition connection failed: [Errno 11001] getaddrinfo failed
+2025-10-26 20:43:34,532 - INFO - Response: Speech service unavailable. Check your internet connection.
+2025-10-27 09:36:24,813 - INFO - ============================================================
+2025-10-27 09:36:24,814 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-27 09:36:24,814 - INFO - ============================================================
+2025-10-27 09:36:24,815 - INFO - Configuration loaded successfully
+2025-10-27 09:36:24,873 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-27 09:36:24,874 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-27 09:36:25,950 - INFO - 127.0.0.1 - - [2025-10-27 09:36:25] "GET /index.html HTTP/1.1" 200 1760 0.007205
+2025-10-27 09:36:25,976 - INFO - 127.0.0.1 - - [2025-10-27 09:36:25] "GET /eel.js HTTP/1.1" 200 6033 0.002006
+2025-10-27 09:36:25,980 - INFO - 127.0.0.1 - - [2025-10-27 09:36:25] "GET /js/main.js HTTP/1.1" 200 1919 0.002477
+2025-10-27 09:36:25,985 - INFO - 127.0.0.1 - - [2025-10-27 09:36:25] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.003456
+2025-10-27 09:36:25,991 - INFO - 127.0.0.1 - - [2025-10-27 09:36:25] "GET /images/icon.png HTTP/1.1" 200 106819 0.003735
+2025-10-27 09:36:26,096 - INFO - 127.0.0.1 - - [2025-10-27 09:36:26] "GET /favicon.ico HTTP/1.1" 404 883 0.022757
+2025-10-27 09:36:28,042 - INFO - Response: Good Morning!
+2025-10-27 09:36:28,685 - INFO - Response: I am Proton, how may I help you?
+2025-10-27 09:36:34,364 - INFO - Voice input: Proton list file
+2025-10-27 09:36:35,040 - INFO - Response: These are the files in your home directory
+2025-10-27 09:36:35,040 - INFO - Command logged: list files - success
+2025-10-27 09:36:40,822 - INFO - Voice input: Proton open 81
+2025-10-27 09:36:41,340 - INFO - Response: Opening folder Templates
+2025-10-27 09:36:41,355 - INFO - Opened folder (method 1): C:\Users\raksh\Templates
+2025-10-27 09:36:41,356 - INFO - Command logged: open folder: Templates - success
+2025-10-27 09:36:47,884 - INFO - Voice input: it's not actually
+2025-10-27 09:36:53,877 - WARNING - Could not understand audio
+2025-10-27 09:36:57,160 - INFO - Voice input: 85
+2025-10-27 09:37:02,587 - INFO - Voice input: Proton open 85
+2025-10-27 09:37:06,443 - WARNING - Could not understand audio
+2025-10-27 09:37:13,803 - WARNING - Could not understand audio
+2025-10-27 09:37:19,274 - INFO - Voice input: Proton open 34
+2025-10-27 09:37:24,961 - INFO - Voice input: Proton list file
+2025-10-27 09:37:25,672 - INFO - Response: These are the files in your home directory
+2025-10-27 09:37:25,674 - INFO - Command logged: list files - success
+2025-10-27 09:37:34,828 - INFO - Voice input: open Proton open 34
+2025-10-27 09:37:35,406 - INFO - Response: Opening folder Downloads
+2025-10-27 09:37:35,413 - INFO - Opened folder (method 1): C:\Users\raksh\Downloads
+2025-10-27 09:37:35,413 - INFO - Command logged: open folder: Downloads - success
+2025-10-27 09:37:41,460 - INFO - Voice input: download
+2025-10-27 09:37:45,412 - WARNING - Could not understand audio
+2025-10-27 09:37:50,193 - INFO - Voice input: Proton Proton list file
+2025-10-27 09:37:50,856 - INFO - Response: These are the files in your home directory
+2025-10-27 09:37:50,856 - INFO - Command logged: list files - success
+2025-10-27 09:37:57,076 - INFO - Voice input: Proton open 85
+2025-10-27 09:37:57,596 - INFO - Response: Opening folder Videos
+2025-10-27 09:37:57,613 - INFO - Opened folder (method 1): C:\Users\raksh\Videos
+2025-10-27 09:37:57,614 - INFO - Command logged: open folder: Videos - success
+2025-10-27 09:38:01,933 - WARNING - Could not understand audio
+2025-10-27 09:38:09,929 - WARNING - Could not understand audio
+2025-10-27 09:38:18,367 - WARNING - Could not understand audio
+2025-10-27 09:38:25,455 - INFO - Voice input: Proton exit
+2025-10-27 09:38:26,054 - INFO - Response: Shutting down. Goodbye!
+2025-10-27 09:38:26,054 - INFO - Command logged: shutdown - success
+2025-10-27 09:38:26,534 - INFO - Response: Exiting successfully
+2025-10-27 09:38:26,535 - INFO - System exit requested
+2025-10-27 11:41:14,340 - INFO - ============================================================
+2025-10-27 11:41:14,340 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-27 11:41:14,340 - INFO - ============================================================
+2025-10-27 11:41:14,348 - INFO - Configuration loaded successfully
+2025-10-27 11:41:14,380 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-27 11:41:14,380 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-27 11:41:15,115 - INFO - Response: Good Morning!
+2025-10-27 11:41:15,115 - INFO - Response: I am Proton, how may I help you?
+2025-10-27 11:41:15,288 - INFO - 127.0.0.1 - - [2025-10-27 11:41:15] "GET /index.html HTTP/1.1" 200 1760 0.005394
+2025-10-27 11:41:15,302 - INFO - 127.0.0.1 - - [2025-10-27 11:41:15] "GET /eel.js HTTP/1.1" 200 6033 0.001078
+2025-10-27 11:41:15,317 - INFO - 127.0.0.1 - - [2025-10-27 11:41:15] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.013435
+2025-10-27 11:41:15,331 - INFO - 127.0.0.1 - - [2025-10-27 11:41:15] "GET /images/icon.png HTTP/1.1" 200 106819 0.012406
+2025-10-27 11:41:15,333 - INFO - 127.0.0.1 - - [2025-10-27 11:41:15] "GET /js/main.js HTTP/1.1" 200 1919 0.001066
+2025-10-27 11:41:15,401 - INFO - 127.0.0.1 - - [2025-10-27 11:41:15] "GET /favicon.ico HTTP/1.1" 404 883 0.009267
+2025-10-27 11:41:21,264 - WARNING - Could not understand audio
+2025-10-27 11:41:25,397 - WARNING - Could not understand audio
+2025-10-27 11:41:29,247 - WARNING - Could not understand audio
+2025-10-27 11:41:33,080 - WARNING - Could not understand audio
+2025-10-27 11:41:39,639 - WARNING - Could not understand audio
+2025-10-27 11:41:43,862 - WARNING - Could not understand audio
+2025-10-27 11:41:48,263 - WARNING - Could not understand audio
+2025-10-27 11:41:53,716 - WARNING - Could not understand audio
+2025-10-27 11:41:58,925 - INFO - Voice input: Proton exchange
+2025-10-27 11:42:07,896 - INFO - Voice input: Proton EX
+2025-10-27 11:42:12,046 - INFO - Voice input: Proton exit
+2025-10-27 11:42:12,046 - INFO - Response: Shutting down. Goodbye!
+2025-10-27 11:42:12,046 - INFO - Command logged: shutdown - success
+2025-10-27 11:42:12,046 - INFO - Response: Exiting successfully
+2025-10-27 11:42:12,046 - INFO - System exit requested
+2025-10-27 11:42:25,315 - INFO - ============================================================
+2025-10-27 11:42:25,315 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-27 11:42:25,315 - INFO - ============================================================
+2025-10-27 11:42:25,315 - INFO - Configuration loaded successfully
+2025-10-27 11:42:25,340 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-27 11:42:25,340 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-27 11:42:25,981 - INFO - Response: Good Morning!
+2025-10-27 11:42:25,983 - INFO - Response: I am Proton, how may I help you?
+2025-10-27 11:42:26,065 - INFO - 127.0.0.1 - - [2025-10-27 11:42:26] "GET /index.html HTTP/1.1" 200 1760 0.003491
+2025-10-27 11:42:26,077 - INFO - 127.0.0.1 - - [2025-10-27 11:42:26] "GET /eel.js HTTP/1.1" 200 6033 0.000999
+2025-10-27 11:42:26,078 - INFO - 127.0.0.1 - - [2025-10-27 11:42:26] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.000000
+2025-10-27 11:42:26,082 - INFO - 127.0.0.1 - - [2025-10-27 11:42:26] "GET /js/main.js HTTP/1.1" 200 1919 0.004009
+2025-10-27 11:42:26,086 - INFO - 127.0.0.1 - - [2025-10-27 11:42:26] "GET /images/icon.png HTTP/1.1" 200 106819 0.002012
+2025-10-27 11:42:30,031 - WARNING - Could not understand audio
+2025-10-27 11:42:36,712 - WARNING - Could not understand audio
+2025-10-27 11:42:43,496 - WARNING - Could not understand audio
+2025-10-27 11:42:48,263 - WARNING - Could not understand audio
+2025-10-27 11:42:48,263 - INFO - Response: Shutting down. Goodbye!
+2025-10-27 11:42:48,263 - INFO - Command logged: shutdown - success
+2025-10-27 11:42:48,275 - INFO - Response: Exiting successfully
+2025-10-27 11:42:48,275 - INFO - System exit requested
+2025-10-27 11:48:27,826 - INFO - ============================================================
+2025-10-27 11:48:27,826 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-27 11:48:27,826 - INFO - ============================================================
+2025-10-27 11:48:27,826 - INFO - Configuration loaded successfully
+2025-10-27 11:48:27,854 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-27 11:48:27,854 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-27 11:48:28,467 - INFO - 127.0.0.1 - - [2025-10-27 11:48:28] "GET /index.html HTTP/1.1" 200 1760 0.006001
+2025-10-27 11:48:28,483 - INFO - 127.0.0.1 - - [2025-10-27 11:48:28] "GET /eel.js HTTP/1.1" 200 6033 0.000000
+2025-10-27 11:48:28,488 - INFO - 127.0.0.1 - - [2025-10-27 11:48:28] "GET /js/main.js HTTP/1.1" 200 1919 0.005331
+2025-10-27 11:48:28,493 - INFO - 127.0.0.1 - - [2025-10-27 11:48:28] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.002874
+2025-10-27 11:48:28,497 - INFO - 127.0.0.1 - - [2025-10-27 11:48:28] "GET /images/icon.png HTTP/1.1" 200 106819 0.002265
+2025-10-27 11:48:28,512 - INFO - Response: Good Morning!
+2025-10-27 11:48:28,512 - INFO - Response: I am Proton, how may I help you?
+2025-10-27 11:49:05,532 - INFO - Response: Shutting down. Goodbye!
+2025-10-27 11:49:05,532 - INFO - Response: Exiting successfully
+2025-10-27 11:49:23,288 - INFO - ============================================================
+2025-10-27 11:49:23,288 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-27 11:49:23,288 - INFO - ============================================================
+2025-10-27 11:49:23,288 - INFO - Configuration loaded successfully
+2025-10-27 11:49:23,303 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-27 11:49:23,303 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-27 11:49:23,902 - INFO - 127.0.0.1 - - [2025-10-27 11:49:23] "GET /index.html HTTP/1.1" 200 1760 0.007586
+2025-10-27 11:49:23,915 - INFO - 127.0.0.1 - - [2025-10-27 11:49:23] "GET /eel.js HTTP/1.1" 200 6033 0.000000
+2025-10-27 11:49:23,915 - INFO - 127.0.0.1 - - [2025-10-27 11:49:23] "GET /js/main.js HTTP/1.1" 200 1919 0.000000
+2025-10-27 11:49:23,927 - INFO - 127.0.0.1 - - [2025-10-27 11:49:23] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.002645
+2025-10-27 11:49:23,930 - INFO - 127.0.0.1 - - [2025-10-27 11:49:23] "GET /images/icon.png HTTP/1.1" 200 106819 0.002094
+2025-10-27 11:49:23,947 - INFO - Response: Good Morning!
+2025-10-27 11:49:23,948 - INFO - Response: I am Proton, how may I help you?
+2025-10-27 11:49:33,476 - INFO - Response: Shutting down. Goodbye!
+2025-10-27 11:49:33,476 - INFO - Response: Exiting successfully
+2025-10-27 11:54:36,495 - INFO - ============================================================
+2025-10-27 11:54:36,495 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-27 11:54:36,495 - INFO - ============================================================
+2025-10-27 11:54:36,495 - INFO - Configuration loaded successfully
+2025-10-27 11:54:36,511 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-27 11:54:36,511 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-27 11:54:37,175 - INFO - 127.0.0.1 - - [2025-10-27 11:54:37] "GET /index.html HTTP/1.1" 200 1760 0.010116
+2025-10-27 11:54:37,189 - INFO - 127.0.0.1 - - [2025-10-27 11:54:37] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.002421
+2025-10-27 11:54:37,193 - INFO - 127.0.0.1 - - [2025-10-27 11:54:37] "GET /eel.js HTTP/1.1" 200 6033 0.001112
+2025-10-27 11:54:37,197 - INFO - 127.0.0.1 - - [2025-10-27 11:54:37] "GET /js/main.js HTTP/1.1" 200 1919 0.001020
+2025-10-27 11:54:37,199 - INFO - 127.0.0.1 - - [2025-10-27 11:54:37] "GET /images/icon.png HTTP/1.1" 200 106819 0.001005
+2025-10-27 11:54:38,654 - INFO - Response: Good Morning!
+2025-10-27 11:54:38,854 - INFO - Response: I am Proton, how may I help you?
+2025-10-27 11:54:42,371 - WARNING - Could not understand audio
+2025-10-27 11:54:45,507 - WARNING - Could not understand audio
+2025-10-27 11:54:49,239 - WARNING - Could not understand audio
+2025-10-27 11:54:55,378 - WARNING - Could not understand audio
+2025-10-27 11:54:55,603 - INFO - Response: Shutting down. Goodbye!
+2025-10-27 11:54:55,605 - INFO - Command logged: shutdown - success
+2025-10-27 11:54:55,720 - INFO - Response: Exiting successfully
+2025-10-27 11:54:55,720 - INFO - System exit requested
+2025-10-27 11:55:12,394 - INFO - ============================================================
+2025-10-27 11:55:12,394 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-27 11:55:12,394 - INFO - ============================================================
+2025-10-27 11:55:12,394 - INFO - Configuration loaded successfully
+2025-10-27 11:55:12,426 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-27 11:55:12,426 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-27 11:55:13,128 - INFO - 127.0.0.1 - - [2025-10-27 11:55:13] "GET /index.html HTTP/1.1" 200 1760 0.003007
+2025-10-27 11:55:13,142 - INFO - 127.0.0.1 - - [2025-10-27 11:55:13] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.000999
+2025-10-27 11:55:13,144 - INFO - 127.0.0.1 - - [2025-10-27 11:55:13] "GET /eel.js HTTP/1.1" 200 6033 0.000999
+2025-10-27 11:55:13,146 - INFO - 127.0.0.1 - - [2025-10-27 11:55:13] "GET /js/main.js HTTP/1.1" 200 1919 0.001000
+2025-10-27 11:55:13,149 - INFO - 127.0.0.1 - - [2025-10-27 11:55:13] "GET /images/icon.png HTTP/1.1" 200 106819 0.001323
+2025-10-27 11:55:14,523 - INFO - Response: Good Morning!
+2025-10-27 11:55:14,722 - INFO - Response: I am Proton, how may I help you?
+2025-10-27 11:55:18,993 - WARNING - Could not understand audio
+2025-10-27 11:55:22,175 - WARNING - Could not understand audio
+2025-10-27 11:55:29,037 - WARNING - Could not understand audio
+2025-10-27 11:55:29,258 - INFO - Response: Shutting down. Goodbye!
+2025-10-27 11:55:29,258 - INFO - Command logged: shutdown - success
+2025-10-27 11:55:29,370 - INFO - Response: Exiting successfully
+2025-10-27 11:55:29,370 - INFO - System exit requested
+2025-10-27 11:57:14,838 - INFO - ============================================================
+2025-10-27 11:57:14,838 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-27 11:57:14,838 - INFO - ============================================================
+2025-10-27 11:57:14,838 - INFO - Configuration loaded successfully
+2025-10-27 11:57:14,863 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-27 11:57:14,863 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-27 11:57:15,526 - INFO - 127.0.0.1 - - [2025-10-27 11:57:15] "GET /index.html HTTP/1.1" 200 1760 0.003965
+2025-10-27 11:57:15,536 - INFO - 127.0.0.1 - - [2025-10-27 11:57:15] "GET /eel.js HTTP/1.1" 200 6033 0.001009
+2025-10-27 11:57:15,540 - INFO - 127.0.0.1 - - [2025-10-27 11:57:15] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.002824
+2025-10-27 11:57:15,543 - INFO - 127.0.0.1 - - [2025-10-27 11:57:15] "GET /js/main.js HTTP/1.1" 200 1919 0.001224
+2025-10-27 11:57:15,546 - INFO - 127.0.0.1 - - [2025-10-27 11:57:15] "GET /images/icon.png HTTP/1.1" 200 106819 0.001007
+2025-10-27 11:57:16,971 - INFO - Response: Good Morning!
+2025-10-27 11:57:17,168 - INFO - Response: I am Proton, how may I help you?
+2025-10-27 11:57:19,890 - WARNING - Could not understand audio
+2025-10-27 11:57:25,015 - WARNING - Could not understand audio
+2025-10-27 11:57:25,219 - INFO - Response: Shutting down. Goodbye!
+2025-10-27 11:57:25,220 - INFO - Command logged: shutdown - success
+2025-10-27 11:57:25,336 - INFO - Response: Exiting successfully
+2025-10-27 11:57:25,336 - INFO - System exit requested
+2025-10-27 12:01:34,853 - INFO - ============================================================
+2025-10-27 12:01:34,854 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-27 12:01:34,854 - INFO - ============================================================
+2025-10-27 12:01:34,854 - INFO - Configuration loaded successfully
+2025-10-27 12:01:34,889 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-27 12:01:34,890 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-27 12:01:35,855 - INFO - 127.0.0.1 - - [2025-10-27 12:01:35] "GET /index.html HTTP/1.1" 200 1760 0.005427
+2025-10-27 12:01:35,895 - INFO - 127.0.0.1 - - [2025-10-27 12:01:35] "GET /eel.js HTTP/1.1" 200 6033 0.001001
+2025-10-27 12:01:35,908 - INFO - 127.0.0.1 - - [2025-10-27 12:01:35] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.003000
+2025-10-27 12:01:35,911 - INFO - 127.0.0.1 - - [2025-10-27 12:01:35] "GET /js/main.js HTTP/1.1" 200 1919 0.002002
+2025-10-27 12:01:35,921 - INFO - 127.0.0.1 - - [2025-10-27 12:01:35] "GET /images/icon.png HTTP/1.1" 200 106819 0.008000
+2025-10-27 12:01:37,617 - INFO - Response: Good Afternoon!
+2025-10-27 12:01:37,820 - INFO - Response: I am Proton, how may I help you?
+2025-10-27 12:01:42,752 - WARNING - Could not understand audio
+2025-10-27 12:01:46,563 - WARNING - Could not understand audio
+2025-10-27 12:01:50,616 - WARNING - Could not understand audio
+2025-10-27 12:01:50,816 - INFO - Response: Shutting down. Goodbye!
+2025-10-27 12:01:50,817 - INFO - Command logged: shutdown - success
+2025-10-27 12:01:50,954 - INFO - Response: Exiting successfully
+2025-10-27 12:01:50,954 - INFO - System exit requested
+2025-10-27 12:02:27,192 - INFO - ============================================================
+2025-10-27 12:02:27,192 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-27 12:02:27,192 - INFO - ============================================================
+2025-10-27 12:02:27,192 - INFO - Configuration loaded successfully
+2025-10-27 12:02:27,224 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-27 12:02:27,224 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-27 12:02:51,545 - INFO - ============================================================
+2025-10-27 12:02:51,548 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-27 12:02:51,548 - INFO - ============================================================
+2025-10-27 12:02:51,548 - INFO - Configuration loaded successfully
+2025-10-27 12:02:51,582 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-27 12:02:51,582 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-27 12:03:36,400 - INFO - ============================================================
+2025-10-27 12:03:36,401 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-27 12:03:36,401 - INFO - ============================================================
+2025-10-27 12:03:36,402 - INFO - Configuration loaded successfully
+2025-10-27 12:03:36,442 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-27 12:03:36,443 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-27 12:03:37,371 - INFO - 127.0.0.1 - - [2025-10-27 12:03:37] "GET /index.html HTTP/1.1" 200 1760 0.004471
+2025-10-27 12:03:37,432 - INFO - 127.0.0.1 - - [2025-10-27 12:03:37] "GET /eel.js HTTP/1.1" 200 6033 0.001996
+2025-10-27 12:03:37,437 - INFO - 127.0.0.1 - - [2025-10-27 12:03:37] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.002506
+2025-10-27 12:03:37,438 - INFO - 127.0.0.1 - - [2025-10-27 12:03:37] "GET /js/main.js HTTP/1.1" 200 1919 0.001000
+2025-10-27 12:03:37,453 - INFO - 127.0.0.1 - - [2025-10-27 12:03:37] "GET /images/icon.png HTTP/1.1" 200 106819 0.008879
+2025-10-27 12:03:39,153 - INFO - Response: Good Afternoon!
+2025-10-27 12:03:39,386 - INFO - Response: I am Proton, how may I help you?
+2025-10-27 12:03:45,040 - WARNING - Could not understand audio
+2025-10-27 12:03:51,300 - WARNING - Could not understand audio
+2025-10-27 12:03:55,972 - WARNING - Could not understand audio
+2025-10-27 12:03:56,183 - INFO - Response: Shutting down. Goodbye!
+2025-10-27 12:03:56,187 - INFO - Command logged: shutdown - success
+2025-10-27 12:03:56,308 - INFO - Response: Exiting successfully
+2025-10-27 12:03:56,308 - INFO - System exit requested
+2025-10-27 12:13:21,983 - INFO - ============================================================
+2025-10-27 12:13:21,983 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-27 12:13:21,983 - INFO - ============================================================
+2025-10-27 12:13:21,983 - INFO - Configuration loaded successfully
+2025-10-27 12:13:22,004 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-27 12:13:22,004 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-27 12:13:22,649 - INFO - Response: Good Afternoon!
+2025-10-27 12:13:22,662 - INFO - Response: I am Proton, how may I help you?
+2025-10-27 12:13:22,751 - INFO - 127.0.0.1 - - [2025-10-27 12:13:22] "GET /index.html HTTP/1.1" 200 1760 0.003290
+2025-10-27 12:13:22,765 - INFO - 127.0.0.1 - - [2025-10-27 12:13:22] "GET /eel.js HTTP/1.1" 200 6033 0.002117
+2025-10-27 12:13:22,768 - INFO - 127.0.0.1 - - [2025-10-27 12:13:22] "GET /js/main.js HTTP/1.1" 200 1919 0.000997
+2025-10-27 12:13:22,773 - INFO - 127.0.0.1 - - [2025-10-27 12:13:22] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.001299
+2025-10-27 12:13:22,777 - INFO - 127.0.0.1 - - [2025-10-27 12:13:22] "GET /images/icon.png HTTP/1.1" 200 106819 0.002128
+2025-10-27 12:13:30,179 - WARNING - Could not understand audio
+2025-10-27 12:13:36,311 - WARNING - Could not understand audio
+2025-10-27 12:13:36,312 - INFO - Response: Shutting down. Goodbye!
+2025-10-27 12:13:36,312 - INFO - Command logged: shutdown - success
+2025-10-27 12:13:36,329 - INFO - Response: Exiting successfully
+2025-10-27 12:13:36,329 - INFO - System exit requested
+2025-10-27 12:13:53,623 - INFO - ============================================================
+2025-10-27 12:13:53,623 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-27 12:13:53,623 - INFO - ============================================================
+2025-10-27 12:13:53,623 - INFO - Configuration loaded successfully
+2025-10-27 12:13:53,646 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-27 12:13:53,646 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-27 12:13:54,239 - INFO - 127.0.0.1 - - [2025-10-27 12:13:54] "GET /index.html HTTP/1.1" 200 1760 0.005420
+2025-10-27 12:13:54,256 - INFO - 127.0.0.1 - - [2025-10-27 12:13:54] "GET /eel.js HTTP/1.1" 200 6033 0.001212
+2025-10-27 12:13:54,259 - INFO - 127.0.0.1 - - [2025-10-27 12:13:54] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.001114
+2025-10-27 12:13:54,265 - INFO - 127.0.0.1 - - [2025-10-27 12:13:54] "GET /js/main.js HTTP/1.1" 200 1919 0.002416
+2025-10-27 12:13:54,267 - INFO - 127.0.0.1 - - [2025-10-27 12:13:54] "GET /images/icon.png HTTP/1.1" 200 106819 0.001025
+2025-10-27 12:13:54,296 - INFO - Response: Good Afternoon!
+2025-10-27 12:13:54,300 - INFO - Response: I am Proton, how may I help you?
+2025-10-27 12:13:59,007 - WARNING - Could not understand audio
+2025-10-27 12:14:03,302 - WARNING - Could not understand audio
+2025-10-27 12:14:03,312 - INFO - Response: Shutting down. Goodbye!
+2025-10-27 12:14:03,314 - INFO - Command logged: shutdown - success
+2025-10-27 12:14:03,317 - INFO - Response: Exiting successfully
+2025-10-27 12:14:03,318 - INFO - System exit requested
+2025-10-27 12:40:20,647 - INFO - ============================================================
+2025-10-27 12:40:20,647 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-27 12:40:20,647 - INFO - ============================================================
+2025-10-27 12:40:20,668 - INFO - Configuration loaded successfully
+2025-10-27 12:40:20,695 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-27 12:40:20,695 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-27 12:40:21,385 - INFO - Response: Good Afternoon!
+2025-10-27 12:40:21,394 - INFO - Response: I am Proton, how may I help you?
+2025-10-27 12:40:21,451 - INFO - 127.0.0.1 - - [2025-10-27 12:40:21] "GET /index.html HTTP/1.1" 200 1760 0.003041
+2025-10-27 12:40:21,463 - INFO - 127.0.0.1 - - [2025-10-27 12:40:21] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.002004
+2025-10-27 12:40:21,466 - INFO - 127.0.0.1 - - [2025-10-27 12:40:21] "GET /js/main.js HTTP/1.1" 200 1919 0.001332
+2025-10-27 12:40:21,468 - INFO - 127.0.0.1 - - [2025-10-27 12:40:21] "GET /eel.js HTTP/1.1" 200 6033 0.001447
+2025-10-27 12:40:21,472 - INFO - 127.0.0.1 - - [2025-10-27 12:40:21] "GET /images/icon.png HTTP/1.1" 200 106819 0.003247
+2025-10-27 12:40:26,292 - WARNING - Could not understand audio
+2025-10-27 12:40:29,771 - WARNING - Could not understand audio
+2025-10-27 12:40:32,804 - WARNING - Could not understand audio
+2025-10-27 12:40:37,045 - WARNING - Could not understand audio
+2025-10-27 12:40:41,145 - INFO - Voice input: 73
+2025-10-27 12:40:44,930 - INFO - Voice input: 75
+2025-10-27 12:40:44,951 - INFO - Response: Shutting down. Goodbye!
+2025-10-27 12:40:44,951 - INFO - Command logged: shutdown - success
+2025-10-27 12:40:44,962 - INFO - Response: Exiting successfully
+2025-10-27 12:40:44,962 - INFO - System exit requested
+2025-10-27 12:43:28,427 - INFO - ============================================================
+2025-10-27 12:43:28,428 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-27 12:43:28,428 - INFO - ============================================================
+2025-10-27 12:43:28,428 - INFO - Configuration loaded successfully
+2025-10-27 12:43:28,444 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-27 12:43:28,444 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-27 12:43:29,051 - INFO - 127.0.0.1 - - [2025-10-27 12:43:29] "GET /index.html HTTP/1.1" 200 1760 0.000000
+2025-10-27 12:43:29,079 - INFO - 127.0.0.1 - - [2025-10-27 12:43:29] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.001003
+2025-10-27 12:43:29,082 - INFO - 127.0.0.1 - - [2025-10-27 12:43:29] "GET /js/main.js HTTP/1.1" 200 1919 0.001122
+2025-10-27 12:43:29,083 - INFO - 127.0.0.1 - - [2025-10-27 12:43:29] "GET /eel.js HTTP/1.1" 200 6033 0.001278
+2025-10-27 12:43:29,086 - INFO - 127.0.0.1 - - [2025-10-27 12:43:29] "GET /images/icon.png HTTP/1.1" 200 106819 0.002038
+2025-10-27 12:43:29,089 - INFO - Response: Good Afternoon!
+2025-10-27 12:43:29,092 - INFO - Response: I am Proton, how may I help you?
+2025-10-27 12:43:33,142 - WARNING - Could not understand audio
+2025-10-27 12:43:36,445 - WARNING - Could not understand audio
+2025-10-27 12:43:40,406 - WARNING - Could not understand audio
+2025-10-27 12:43:40,600 - ERROR - Weather API error: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Mumbai&appid=5eb95e3b6fc80323d9f72fb8781cdc1e&units=metric
+2025-10-27 12:43:40,605 - INFO - Response: Unable to fetch weather information. Check your internet connection.
+2025-10-27 12:43:40,607 - INFO - Command logged: weather: default - success
+2025-10-27 12:43:43,710 - WARNING - Could not understand audio
+2025-10-27 12:43:48,811 - WARNING - Could not understand audio
+2025-10-27 12:43:52,534 - ERROR - Speech recognition service error: recognition connection failed: [Errno 11001] getaddrinfo failed
+2025-10-27 12:43:52,536 - INFO - Response: Speech service unavailable. Check your internet connection.
+2025-10-27 12:43:59,961 - WARNING - Could not understand audio
+2025-10-27 12:44:03,863 - WARNING - Could not understand audio
+2025-10-27 12:44:12,362 - WARNING - Could not understand audio
+2025-10-27 12:44:12,366 - INFO - Response: Shutting down. Goodbye!
+2025-10-27 12:44:12,367 - INFO - Command logged: shutdown - success
+2025-10-27 12:44:12,371 - INFO - Response: Exiting successfully
+2025-10-27 12:44:12,371 - INFO - System exit requested
+2025-10-27 12:46:42,733 - INFO - ============================================================
+2025-10-27 12:46:42,733 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-27 12:46:42,733 - INFO - ============================================================
+2025-10-27 12:46:42,733 - INFO - Configuration loaded successfully
+2025-10-27 12:46:42,771 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-27 12:46:42,771 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-27 12:46:43,484 - INFO - Response: Good Afternoon!
+2025-10-27 12:46:43,492 - INFO - Response: I am Proton, how may I help you?
+2025-10-27 12:46:43,576 - INFO - 127.0.0.1 - - [2025-10-27 12:46:43] "GET /index.html HTTP/1.1" 200 1760 0.003902
+2025-10-27 12:46:43,589 - INFO - 127.0.0.1 - - [2025-10-27 12:46:43] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.000998
+2025-10-27 12:46:43,592 - INFO - 127.0.0.1 - - [2025-10-27 12:46:43] "GET /js/main.js HTTP/1.1" 200 1919 0.001655
+2025-10-27 12:46:43,594 - INFO - 127.0.0.1 - - [2025-10-27 12:46:43] "GET /eel.js HTTP/1.1" 200 6033 0.001433
+2025-10-27 12:46:43,599 - INFO - 127.0.0.1 - - [2025-10-27 12:46:43] "GET /images/icon.png HTTP/1.1" 200 106819 0.002308
+2025-10-27 12:46:43,657 - INFO - 127.0.0.1 - - [2025-10-27 12:46:43] "GET /favicon.ico HTTP/1.1" 404 883 0.010304
+2025-10-27 12:46:49,111 - WARNING - Could not understand audio
+2025-10-27 12:46:56,245 - WARNING - Could not understand audio
+2025-10-27 12:47:00,710 - WARNING - Could not understand audio
+2025-10-27 12:47:05,466 - WARNING - Could not understand audio
+2025-10-27 12:47:10,544 - WARNING - Could not understand audio
+2025-10-27 12:47:15,744 - WARNING - Could not understand audio
+2025-10-27 12:47:25,007 - WARNING - Could not understand audio
+2025-10-27 12:47:25,184 - ERROR - Weather API error: 401 Client Error: Unauthorized for url: http://api.openweathermap.org/data/2.5/weather?q=Mumbai&appid=5eb95e3b6fc80323d9f72fb8781cdc1e&units=metric
+2025-10-27 12:47:25,186 - INFO - Response: Unable to fetch weather information. Check your internet connection.
+2025-10-27 12:47:25,187 - INFO - Command logged: weather: default - success
+2025-10-27 12:47:29,494 - WARNING - Could not understand audio
+2025-10-27 12:47:35,676 - WARNING - Could not understand audio
+2025-10-27 12:47:35,692 - INFO - Response: The time is 12:47 PM
+2025-10-27 12:47:35,695 - INFO - Command logged: time query - success
+2025-10-27 12:47:39,942 - WARNING - Could not understand audio
+2025-10-27 12:47:48,325 - WARNING - Could not understand audio
+2025-10-27 12:47:54,209 - WARNING - Could not understand audio
+2025-10-27 12:48:01,394 - WARNING - Could not understand audio
+2025-10-27 12:48:01,394 - INFO - Response: Here are the websites in Google:
+2025-10-27 12:48:01,411 - INFO - Response: 1: youtube
+2025-10-27 12:48:01,415 - INFO - Response: 2: gmail
+2025-10-27 12:48:01,420 - INFO - Response: 3: classroom
+2025-10-27 12:48:01,425 - INFO - Response: 4: drive
+2025-10-27 12:48:01,428 - INFO - Response: 5: docs
+2025-10-27 12:48:01,428 - INFO - Response: 6: sheets
+2025-10-27 12:48:01,440 - INFO - Response: 7: slides
+2025-10-27 12:48:01,446 - INFO - Response: 8: meet
+2025-10-27 12:48:01,448 - INFO - Response: 9: calendar
+2025-10-27 12:48:01,453 - INFO - Response: 10: google
+2025-10-27 12:48:01,454 - INFO - Response: Please say the number of the website you want to open.
+2025-10-27 12:48:06,448 - WARNING - Could not understand audio
+2025-10-27 12:48:06,453 - INFO - Response: I didn't hear a number. Please try again.
+2025-10-27 12:48:10,441 - WARNING - Could not understand audio
+2025-10-27 12:48:17,457 - WARNING - Could not understand audio
+2025-10-27 12:48:25,659 - WARNING - Could not understand audio
+2025-10-27 12:48:32,075 - WARNING - Could not understand audio
+2025-10-27 12:48:38,341 - WARNING - Could not understand audio
+2025-10-27 12:48:43,575 - WARNING - Could not understand audio
+2025-10-27 12:48:47,074 - WARNING - Could not understand audio
+2025-10-27 12:48:51,358 - WARNING - Could not understand audio
+2025-10-27 12:48:51,358 - INFO - Response: Shutting down. Goodbye!
+2025-10-27 12:48:51,358 - INFO - Command logged: shutdown - success
+2025-10-27 12:48:51,378 - INFO - Response: Exiting successfully
+2025-10-27 12:48:51,378 - INFO - System exit requested
+2025-10-27 12:51:44,784 - INFO - ============================================================
+2025-10-27 12:51:44,784 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-27 12:51:44,784 - INFO - ============================================================
+2025-10-27 12:51:44,784 - INFO - Configuration loaded successfully
+2025-10-27 12:51:44,817 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-27 12:51:44,817 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-27 12:51:45,461 - INFO - Response: Good Afternoon!
+2025-10-27 12:51:45,465 - INFO - Response: I am Proton, how may I help you?
+2025-10-27 12:51:45,465 - INFO - 127.0.0.1 - - [2025-10-27 12:51:45] "GET /index.html HTTP/1.1" 200 1760 0.006088
+2025-10-27 12:51:45,475 - INFO - 127.0.0.1 - - [2025-10-27 12:51:45] "GET /eel.js HTTP/1.1" 200 6033 0.001159
+2025-10-27 12:51:45,479 - INFO - 127.0.0.1 - - [2025-10-27 12:51:45] "GET /js/main.js HTTP/1.1" 200 1919 0.001000
+2025-10-27 12:51:45,483 - INFO - 127.0.0.1 - - [2025-10-27 12:51:45] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.002162
+2025-10-27 12:51:45,488 - INFO - 127.0.0.1 - - [2025-10-27 12:51:45] "GET /images/icon.png HTTP/1.1" 200 106819 0.002005
+2025-10-27 12:51:49,357 - WARNING - Could not understand audio
+2025-10-27 12:51:52,424 - WARNING - Could not understand audio
+2025-10-27 12:51:56,623 - WARNING - Could not understand audio
+2025-10-27 12:52:03,872 - INFO - Voice input: Proton weather
+2025-10-27 12:52:04,290 - INFO - Weather fetched for Mumbai: 31.99°C
+2025-10-27 12:52:04,297 - INFO - Response: Weather in Mumbai: 31.99°C, feels like 37.67°C. haze. Humidity: 62%
+2025-10-27 12:52:04,297 - INFO - Command logged: weather: default - success
+2025-10-27 12:52:10,890 - INFO - Voice input: Proton Mysore weather
+2025-10-27 12:52:11,184 - INFO - Weather fetched for Mumbai: 31.99°C
+2025-10-27 12:52:11,193 - INFO - Response: Weather in Mumbai: 31.99°C, feels like 37.67°C. haze. Humidity: 62%
+2025-10-27 12:52:11,195 - INFO - Command logged: weather: default - success
+2025-10-27 12:52:15,589 - INFO - Voice input: proton
+2025-10-27 12:52:24,530 - INFO - Voice input: Proton weather in Mysore
+2025-10-27 12:52:25,283 - INFO - Weather fetched for mysore: 23°C
+2025-10-27 12:52:25,294 - INFO - Response: Weather in mysore: 23°C, feels like 23.39°C. broken clouds. Humidity: 78%
+2025-10-27 12:52:25,295 - INFO - Command logged: weather: mysore - success
+2025-10-27 12:52:32,459 - INFO - Voice input: Proton exit
+2025-10-27 12:52:32,465 - INFO - Response: Shutting down. Goodbye!
+2025-10-27 12:52:32,467 - INFO - Command logged: shutdown - success
+2025-10-27 12:52:32,475 - INFO - Response: Exiting successfully
+2025-10-27 12:52:32,475 - INFO - System exit requested
+2025-10-27 12:53:55,742 - INFO - ============================================================
+2025-10-27 12:53:55,742 - INFO - PROTON VOICE ASSISTANT STARTED
+2025-10-27 12:53:55,742 - INFO - ============================================================
+2025-10-27 12:53:55,742 - INFO - Configuration loaded successfully
+2025-10-27 12:53:55,765 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\raksh\\AppData\\Roaming\\Python\\Python310\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-10-27 12:53:55,765 - INFO - Using writeable comtypes cache directory: 'C:\Users\raksh\AppData\Roaming\Python\Python310\site-packages\comtypes\gen'
+2025-10-27 12:53:56,351 - INFO - 127.0.0.1 - - [2025-10-27 12:53:56] "GET /index.html HTTP/1.1" 200 1760 0.005000
+2025-10-27 12:53:56,354 - INFO - 127.0.0.1 - - [2025-10-27 12:53:56] "GET /css/jquery.convform.css HTTP/1.1" 200 5950 0.000000
+2025-10-27 12:53:56,363 - INFO - 127.0.0.1 - - [2025-10-27 12:53:56] "GET /eel.js HTTP/1.1" 200 6033 0.000000
+2025-10-27 12:53:56,363 - INFO - 127.0.0.1 - - [2025-10-27 12:53:56] "GET /js/main.js HTTP/1.1" 200 1919 0.000000
+2025-10-27 12:53:56,368 - INFO - 127.0.0.1 - - [2025-10-27 12:53:56] "GET /images/icon.png HTTP/1.1" 200 106819 0.004840
+2025-10-27 12:53:56,395 - INFO - Response: Good Afternoon!
+2025-10-27 12:53:56,397 - INFO - Response: I am Proton, how may I help you?
+2025-10-27 12:54:02,550 - INFO - Voice input: Proton give me the latest news
+2025-10-27 12:54:05,659 - WARNING - Could not understand audio
+2025-10-27 12:54:12,589 - INFO - Voice input: prot
+2025-10-27 12:54:18,525 - WARNING - Could not understand audio
+2025-10-27 12:54:21,829 - WARNING - Could not understand audio
+2025-10-27 12:54:25,988 - WARNING - Could not understand audio
+2025-10-27 12:54:30,004 - WARNING - Could not understand audio
+2025-10-27 12:54:33,422 - WARNING - Could not understand audio
+2025-10-27 12:54:39,504 - WARNING - Could not understand audio
+2025-10-27 12:54:45,655 - WARNING - Could not understand audio
+2025-10-27 12:54:53,108 - WARNING - Could not understand audio
+2025-10-27 12:54:59,862 - WARNING - Could not understand audio
+2025-10-27 12:55:06,805 - WARNING - Could not understand audio
+2025-10-27 12:55:10,904 - WARNING - Could not understand audio
+2025-10-27 12:55:15,320 - WARNING - Could not understand audio
+2025-10-27 12:55:15,331 - INFO - Response: Shutting down. Goodbye!
+2025-10-27 12:55:15,331 - INFO - Command logged: shutdown - success
+2025-10-27 12:55:15,331 - INFO - Response: Exiting successfully
+2025-10-27 12:55:15,331 - INFO - System exit requested

@@ -1,0 +1,21 @@
+{
+  "app_paths": {
+    "notepad": "notepad.exe",
+    "chrome": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+  },
+  "settings": {
+    "wake_word": "proton",
+    "voice_id": 0,
+    "microphone_index": 0,
+    "phrase_time_limit": 5,
+    "language": "en-IN"
+  },
+  "user_info": {
+    "name": "User",
+    "location": "Mumbai"
+  },
+  "api_keys": {
+    "openweather": "5eb95e3b6fc80323d9f72fb8781cdc1e",
+    "news_api": "1689657fc02b4de9a310881d5ebaaa93"
+  }
+}
